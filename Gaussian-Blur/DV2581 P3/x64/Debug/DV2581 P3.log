@@ -1,0 +1,60 @@
+﻿  
+  C:\Users\Wesse\Source\Repos\DV2581 P3\DV2581 P3>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin\nvcc.exe" -ccbin "D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x64" -x cu  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile   -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od  /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "C:\Users\Wesse\Source\Repos\DV2581 P3\DV2581 P3\kernel.cu" -clean 
+  kernel.cu
+  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\Wesse\Source\Repos\DV2581 P3\DV2581 P3>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin\nvcc.exe" -gencode=arch=compute_35,code=\"sm_35,compute_35\" --use-local-env -ccbin "D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x64" -x cu  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc141.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "C:\Users\Wesse\Source\Repos\DV2581 P3\DV2581 P3\kernel.cu" 
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(2773): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(2817): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30315): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30627): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30693): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30873): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(31077): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(51078): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(16075): warning : integer operation result is out of range
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30315): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30627): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30693): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30873): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(31077): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30315): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30627): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30693): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30873): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(31077): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30315): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30627): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30693): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30873): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(31077): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(16422): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30315): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30627): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30693): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30873): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(31077): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30315): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30627): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30693): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30873): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(31077): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30315): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30627): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30693): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30873): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(31077): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(2773): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(2817): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(16422): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30315): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30627): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30693): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(30873): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(31077): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(38471): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(38957): warning : statement is unreachable
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h(51078): warning : statement is unreachable
+  kernel.cu
+     Creating library C:\Users\Wesse\Source\Repos\DV2581 P3\x64\Debug\DV2581 P3.lib and object C:\Users\Wesse\Source\Repos\DV2581 P3\x64\Debug\DV2581 P3.exp
+  DV2581 P3.vcxproj -> C:\Users\Wesse\Source\Repos\DV2581 P3\x64\Debug\DV2581 P3.exe

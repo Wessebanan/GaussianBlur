@@ -1,0 +1,511 @@
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\cuda_runtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_config.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\crtdefs.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\sal.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\concurrencysal.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vadefs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\limits.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stddef.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\library_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_device_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/common_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_memory.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\errno.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime_string.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\time.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\math_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdlib.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\cmath
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\cstdlib
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\yvals.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xkeycheck.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\crtdefs.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\use_ansi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\math.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xtgmath.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xtr1common
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\math_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/device_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\device_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\device_double_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\device_double_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_20_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_35_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_60_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_20_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_30_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_35_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_61_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\sm_70_rt.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_fetch_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_launch_parameters.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\device_launch_parameters.h
+c:\users\wesse\source\repos\dv2581 p3\dv2581 p3\CImg.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\cstdio
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_stdio_config.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\cstdarg
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\stdarg.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\cstring
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\cfloat
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\float.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\climits
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\ctime
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\exception
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\type_traits
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xstddef
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\cstddef
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\initializer_list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\malloc.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime_exception.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\eh.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_terminate.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\algorithm
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xmemory
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xmemory0
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\cstdint
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\stdint.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\limits
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\ymath.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\cwchar
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\sys/types.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\new
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime_new.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xutility
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\utility
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\iosfwd
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\crtdbg.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime_new_debug.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xatomic0.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\intrin0.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\windows.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\winpackagefamily.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\sdkddkver.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\excpt.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\driverspecs.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\guiddef.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack8.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winsvc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mcx.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\ime_cmodes.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\shlobj.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\wtypesbase.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\objidl.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\propidlbase.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\urlmon.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\oleidl.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\servprov.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\prsht.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\commctrl.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\prsht.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\dpa_dsa.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\shtypes.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\shobjidl.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\docobj.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ocidl.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\comcat.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\prsht.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\propsys.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\StructuredQueryCondition.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\propkeydef.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ObjectArray.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shobjidl_core.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\sherrors.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\prsht.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\shlobj_core.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\shlguid.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\isguids.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\exdisp.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\shldisp.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\knownfolders.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\math.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime_startup.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\io.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_io.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\iostream
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\istream
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\ostream
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\ios
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xlocnum
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\streambuf
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xiosbase
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xlocale
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\stdexcept
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xstring
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\typeinfo
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime_typeinfo.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xlocinfo
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\locale.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xfacet
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\system_error
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\cerrno
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\xcall_once.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\share.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\chrono
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\ratio
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\thr/xtimec.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\thr/xthrcommon.h
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\fstream
+D:\Program (x86)\Visual Studio Community\VC\Tools\MSVC\14.12.25827\include\vector

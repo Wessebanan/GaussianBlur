@@ -1,0 +1,5 @@
+256
+30	0.242037
+512
+1024
+The fastest recorded time was 0.242037 with 30 blocks of 256 threads each.
